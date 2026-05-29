@@ -1,5 +1,10 @@
 # Vibration App
 
+[![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-blue.svg)](https://kotlinlang.org/)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://shields.io/)
+[![Android 8.1](https://img.shields.io/badge/Android-6.0-brightgreen.svg?logo=android)](https://developer.android.com/about/versions/marshmallow)
+
+
 An Android application built with Jetpack Compose to explore and test haptic feedback through various vibration patterns and text-to-morse translation.
 
 ## Features
